@@ -1,8 +1,8 @@
-#About
+# About
 
 This is a crowd sourcing app!
 
-#Quick start and basic actions
+# Quick start and basic actions
 
 install Chainlink contracts from https://github.com/smartcontractkit/chainlink-brownie-contracts
 
